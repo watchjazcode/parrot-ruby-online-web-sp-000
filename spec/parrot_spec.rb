@@ -3,7 +3,7 @@ require_relative '../parrot.rb' # Code your solution in this file
 
 def parrot(phrase = "Squawk!")
 end
-
+parrot
 
 
 describe '#parrot' do
