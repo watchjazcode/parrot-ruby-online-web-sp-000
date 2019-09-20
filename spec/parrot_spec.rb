@@ -4,6 +4,7 @@ require_relative '../parrot.rb' # Code your solution in this file
 def parrot(bird_goes = "Squawk!")
   puts "Squawk!"
 end
+  return parrot
 
 describe '#parrot' do
   it 'should output "Squawk!" to the terminal when called without any arguments' do
